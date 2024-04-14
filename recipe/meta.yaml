@@ -1,5 +1,5 @@
 {% set name = "tetraframework" %}
-{% set version = "0.0.5" %}
+{% set version = "0.0.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/tetraframework-{{ version }}.tar.gz
-  sha256: d7d66ea044e3e1d8c6fefb711d589159288aa688214b1c3cd31888714ef1f933
+  sha256: c28fed6bd752685cf1611cc8edde321951c9e13458390861e8a489c07d567263
 
 build:
   noarch: python
