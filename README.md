@@ -3,15 +3,11 @@ About tetraframework-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tetraframework-feedstock/blob/main/LICENSE.txt)
 
-Home: https://www.tetraframework.com
+Home: https://pypi.org/project/tetraframework/
 
 Package license: MIT
 
 Summary: Full stack component framework for Django using Alpine.js
-
-Development: https://github.com/samwillis/tetra
-
-Documentation: https://www.tetraframework.com/docs/
 
 Current build status
 ====================
